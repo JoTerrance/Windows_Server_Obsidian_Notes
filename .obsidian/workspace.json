@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b96b91de41ae0c53",
+        "id": "e62a33d492f6eac1",
         "type": "tabs",
         "children": [
           {
-            "id": "e40e0ab93828e96c",
+            "id": "58b32d85affe638a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,8 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e40e0ab93828e96c",
+  "active": "58b32d85affe638a",
   "lastOpenFiles": [
+    "22. Configurando GPOs  Definiendo un fondo personalizado para el Lock Screen.md",
+    "21. Configurando GPOs Gestión de Servicios.md",
     "20. Configurando GPOs Instalación de Google Chrome.md",
     "19. Configurando GPOs BGInfo en Windows Server.md",
     "18. Configurando GPOs Fondos de Escritorio Personalizados.md",
