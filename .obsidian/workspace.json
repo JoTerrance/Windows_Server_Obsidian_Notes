@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "27e893e6c1133ef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96b91de41ae0c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40e0ab93828e96c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d44c280687886cb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b28c806b0990304a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd9d122d714de52b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3706304c86831749",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "15190767ef2ab57b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "83dce1a2fadbece8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ea2ed02752d2f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72690d7b08020927",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "f536984c76223b7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "465e7dd2b84e2fc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e892516f40b0d6a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e40e0ab93828e96c",
+  "lastOpenFiles": [
+    "20. Configurando GPOs Instalación de Google Chrome.md",
+    "19. Configurando GPOs BGInfo en Windows Server.md",
+    "18. Configurando GPOs Fondos de Escritorio Personalizados.md",
+    "17. Configurando GPOs en Windows Server.md",
+    "16. Windows Admin Center Gestionando tu DNS & DHCP.md",
+    "15. Configurando un DNS Server en Windows Server.md",
+    "14. Configurando un DNS Server secondary.md",
+    "13. Configurando un DNS Server registers.md",
+    "12. Configurando un DNS Server.md",
+    "11. Configurando un DHCP Server Relay Avanzado.md",
+    "10. Configurando un DHCP Server Failover.md",
+    "09 Configurando un DHCP Server Backup Database.md",
+    "08 Configurando un DHCP Server Reservation Exclusion Filter.md",
+    "07 Configurando un DHCP Server.md",
+    "05 DC solo lectura.md",
+    "04 Migrando Roles Maestros.md",
+    "Bienvenido.md",
+    "03 Consolas administrativas.md",
+    "02 DC adcional.md",
+    "01 Mi primer DC.md"
+  ]
+}
