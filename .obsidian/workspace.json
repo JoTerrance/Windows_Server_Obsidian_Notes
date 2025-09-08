@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "27e893e6c1133ef5",
+    "id": "14e69fe634e9175b",
     "type": "split",
     "children": [
       {
-        "id": "e62a33d492f6eac1",
+        "id": "786d6cb559d25eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "58b32d85affe638a",
+            "id": "4cd8ac981b9e33c3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "New tab"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d44c280687886cb4",
+    "id": "5cbe527488d4e05d",
     "type": "split",
     "children": [
       {
-        "id": "b28c806b0990304a",
+        "id": "145abc15a713b538",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9d122d714de52b",
+            "id": "fbd0db91a0ec92ec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,11 +40,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "3706304c86831749",
+            "id": "1e65a358c93ede27",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,17 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
-            }
-          },
-          {
-            "id": "15190767ef2ab57b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Search"
             }
           }
         ]
@@ -78,15 +68,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "83dce1a2fadbece8",
+    "id": "e0287bea2457e518",
     "type": "split",
     "children": [
       {
-        "id": "c6ea2ed02752d2f9",
+        "id": "953fb6100c6a9756",
         "type": "tabs",
         "children": [
           {
-            "id": "72690d7b08020927",
+            "id": "d12ac030c0481908",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,11 +90,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f536984c76223b7d",
+            "id": "0b0e0721e13c3a5c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -113,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "465e7dd2b84e2fc5",
+            "id": "bf96a6f06d4d14c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,11 +118,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "e892516f40b0d6a4",
+            "id": "b818888ecb6d0e4a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -142,7 +132,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Outline"
             }
           }
         ]
@@ -154,18 +144,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58b32d85affe638a",
+  "active": "4cd8ac981b9e33c3",
   "lastOpenFiles": [
+    "25. Configurando GPOs Entendiendo los Filtros de seguridad.md",
+    "24. Configurando GPOs Aprendiendo a trabajar con la Herencia.md",
+    "23. Configurando GPOs Aprendiendo a trabajar con Grupos Restrictivos.md",
     "22. Configurando GPOs  Definiendo un fondo personalizado para el Lock Screen.md",
+    "13. Configurando un DNS Server.md",
     "21. Configurando GPOs Gestión de Servicios.md",
     "20. Configurando GPOs Instalación de Google Chrome.md",
     "19. Configurando GPOs BGInfo en Windows Server.md",
@@ -176,16 +168,6 @@
     "14. Configurando un DNS Server secondary.md",
     "13. Configurando un DNS Server registers.md",
     "12. Configurando un DNS Server.md",
-    "11. Configurando un DHCP Server Relay Avanzado.md",
-    "10. Configurando un DHCP Server Failover.md",
-    "09 Configurando un DHCP Server Backup Database.md",
-    "08 Configurando un DHCP Server Reservation Exclusion Filter.md",
-    "07 Configurando un DHCP Server.md",
-    "05 DC solo lectura.md",
-    "04 Migrando Roles Maestros.md",
-    "Bienvenido.md",
-    "03 Consolas administrativas.md",
-    "02 DC adcional.md",
-    "01 Mi primer DC.md"
+    "11. Configurando un DHCP Server Relay Avanzado.md"
   ]
 }
