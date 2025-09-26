@@ -1,37 +1,56 @@
 {
   "main": {
-    "id": "14e69fe634e9175b",
+    "id": "27e893e6c1133ef5",
     "type": "split",
     "children": [
       {
-        "id": "786d6cb559d25eb8",
+        "id": "baf5c465b74b94e4",
         "type": "tabs",
         "children": [
           {
-            "id": "4cd8ac981b9e33c3",
+            "id": "8a4a2825a3c4bc95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "21. Configurando GPOs Gestión de Servicios.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "21. Configurando GPOs Gestión de Servicios"
+            }
+          },
+          {
+            "id": "57d2b9e44da497f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31. Cómo instalar y configurar Windows Server Backup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31. Cómo instalar y configurar Windows Server Backup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5cbe527488d4e05d",
+    "id": "d44c280687886cb4",
     "type": "split",
     "children": [
       {
-        "id": "145abc15a713b538",
+        "id": "b28c806b0990304a",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd0db91a0ec92ec",
+            "id": "cd9d122d714de52b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,11 +59,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "1e65a358c93ede27",
+            "id": "3706304c86831749",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,26 +76,36 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "15190767ef2ab57b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 482.5,
     "collapsed": true
   },
   "right": {
-    "id": "e0287bea2457e518",
+    "id": "83dce1a2fadbece8",
     "type": "split",
     "children": [
       {
-        "id": "953fb6100c6a9756",
+        "id": "c6ea2ed02752d2f9",
         "type": "tabs",
         "children": [
           {
-            "id": "d12ac030c0481908",
+            "id": "72690d7b08020927",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -90,11 +119,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "0b0e0721e13c3a5c",
+            "id": "f536984c76223b7d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,11 +132,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "bf96a6f06d4d14c1",
+            "id": "465e7dd2b84e2fc5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,11 +147,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "b818888ecb6d0e4a",
+            "id": "e892516f40b0d6a4",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -132,7 +161,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema"
             }
           }
         ]
@@ -144,30 +173,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cd8ac981b9e33c3",
+  "active": "57d2b9e44da497f8",
   "lastOpenFiles": [
+    "31. Cómo instalar y configurar Windows Server Backup.md",
+    "21. Configurando GPOs Gestión de Servicios.md",
+    "Enumeracion de subdominios.md",
+    "19. Configurando GPOs BGInfo en Windows Server.md",
+    "17. Configurando GPOs en Windows Server.md",
+    "12. Configurando un DNS Server.md",
+    "11. Configurando un DHCP Server Relay Avanzado.md",
+    "10. Configurando un DHCP Server Failover.md",
+    "09 Configurando un DHCP Server Backup Database.md",
+    "08 Configurando un DHCP Server Reservation Exclusion Filter.md",
+    "07 Configurando un DHCP Server.md",
+    "03 Consolas administrativas.md",
+    "01 Mi primer DC.md",
+    "30. Remote Desktop Services Removiendo Advertencias de RemoteApps.md",
+    "29. Remote Desktop Services Standard Deployment publicando RemoteApps.md",
+    "28.  Remote Desktop Services Standard Deployment.md",
+    "27. Remote Desktop Services RemoteApps.md",
+    "26. Remote Desktop Services Quick Start.md",
     "25. Configurando GPOs Entendiendo los Filtros de seguridad.md",
     "24. Configurando GPOs Aprendiendo a trabajar con la Herencia.md",
     "23. Configurando GPOs Aprendiendo a trabajar con Grupos Restrictivos.md",
     "22. Configurando GPOs  Definiendo un fondo personalizado para el Lock Screen.md",
-    "13. Configurando un DNS Server.md",
-    "21. Configurando GPOs Gestión de Servicios.md",
     "20. Configurando GPOs Instalación de Google Chrome.md",
-    "19. Configurando GPOs BGInfo en Windows Server.md",
     "18. Configurando GPOs Fondos de Escritorio Personalizados.md",
-    "17. Configurando GPOs en Windows Server.md",
     "16. Windows Admin Center Gestionando tu DNS & DHCP.md",
-    "15. Configurando un DNS Server en Windows Server.md",
-    "14. Configurando un DNS Server secondary.md",
-    "13. Configurando un DNS Server registers.md",
-    "12. Configurando un DNS Server.md",
-    "11. Configurando un DHCP Server Relay Avanzado.md"
+    "15. Configurando un DNS Server en Windows Server.md"
   ]
 }
